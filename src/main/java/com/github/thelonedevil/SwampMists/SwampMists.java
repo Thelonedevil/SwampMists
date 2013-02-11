@@ -25,7 +25,7 @@ public class SwampMists extends CommonPlugin {
 		RootCommand root = getEngine().getRootCommand();
 		root.addSubCommands(this, PlayerCommands.class, commandRegFactory);
 
-		getEngine().getEventManager().registerEvents(new EListener(this), this);
+		//getEngine().getEventManager().registerEvents(new EListener(this), this);
 		getLogger().info(Lib.logged+"enabled.");
 	}
 
