@@ -20,7 +20,7 @@
 		<currentYear>2013</currentYear>
 		<spoutVersion>dev-SNAPSHOT</spoutVersion>
 		<buildNumber>0</buildNumber>
-		<mainClass>com.github.thelonedevil.SwampMists.Swampmists</mainClass>
+		<mainClass>com.github.thelonedevil.SwampMists.SwampMists</mainClass>
 		<!-- add plugin dependancies in the format of [Vanilla,Test] -->
 		<depends></depends>
 	</properties>
